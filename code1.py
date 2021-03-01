@@ -7,7 +7,7 @@ root = tk.Tk()
 root.geometry("800x800")
 X = -1
 Y = -1
-# image=PhotoImage(file="vun.png")
+image=PhotoImage(file="vun.png")
 # VARIABLES
 grid = [[3,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,],
         [1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,],
